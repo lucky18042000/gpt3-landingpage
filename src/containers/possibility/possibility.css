@@ -1,0 +1,85 @@
+.possibility {
+  width: 1044px;
+  height: 607.53px;
+  padding: 1rem 8.8rem;
+  display: flex;
+  justify-content: space-between;
+}
+.possibility-img > img {
+  width: 546px;
+  height: 607.53px;
+  left: 717px;
+  top: 2426px;
+}
+.possibility-content {
+  width: 479px;
+  height: 334px;
+  /* border: 2px solid red; */
+  margin-top: 230px;
+  display: grid;
+  gap: 15px;
+}
+.possibility-content-para1 {
+  width: 271px;
+  height: 30px;
+  left: 736px;
+  top: 2665px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  color: #71e5ff;
+}
+.possibility-content-header {
+  width: 426px;
+  height: 90px;
+  left: 736px;
+  top: 2705px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 45px;
+  /* or 132% */
+
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%), #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.possibility-content-para2 {
+  width: 479px;
+  height: 120px;
+  left: 736px;
+  top: 2818px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* or 188% */
+
+  color: #81afdd;
+}
+.possibility-content-para3 {
+  width: 271px;
+  height: 30px;
+  left: 736px;
+  top: 2969px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  color: #ff8a71;
+}

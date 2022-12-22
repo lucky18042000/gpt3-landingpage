@@ -1,0 +1,85 @@
+.gpt3__navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 8.8rem;
+}
+.gpt3__navbar-links {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 1169.34px;
+  height: 58px;
+  
+}
+.gpt3__navbar-links-logo {
+  margin-right: 2rem;
+}
+.gpt3__navbar-links-logo img {
+  width: 62px;
+  height: 16px;
+  left: 135.66px;
+  top: 74.29px;
+}
+.gpt3__navbar-links-conatiner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  /* border: 2px solid red; */
+  width: 566px;
+  height: 25px;
+  left: 267px;
+  top: 71px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.gpt3__navbar-sign {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 235px;
+  height: 58px;
+  left: 1070px;
+  top: 55px;
+  gap: 26px;
+  margin-left: 237px;
+}
+.gpt3__navbar-sign > p {
+  width: 57px;
+  height: 25px;
+  /* left: 1070px;
+  top: 71px; */
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.gpt3__navbar-sign > button {
+  width: 152px;
+  height: 58px;
+  left: 1153px;
+  top: 55px;
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+  color: #FFFFFF;
+  background: #ff4820;
+  border-radius: 5px;
+}

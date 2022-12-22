@@ -1,0 +1,10 @@
+.brand{
+    display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+align-content: center;
+/* border: 2px solid red; */
+padding: 15px;
+gap: 46.48px;
+}

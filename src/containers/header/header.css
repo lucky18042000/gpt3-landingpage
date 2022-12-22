@@ -1,0 +1,96 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 8.8rem;
+  /* border: 2px solid red; */
+}
+.header-img > img {
+  width: 466.41px;
+  height: 477.59px;
+}
+.header-content {
+  width: 779.29px;
+  height: 557.89px;
+  display: grid;
+}
+.header-content-heading {
+  width: 614px;
+  height: 225px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 62px;
+  line-height: 75px;
+  /* or 121% */
+
+  letter-spacing: -0.04em;
+
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.header-content-desc {
+  width: 554px;
+  height: 114px;
+
+  margin-top: 3px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #81afdd;
+}
+.header-form-input {
+  width: 400px;
+  height: 73px;
+  left: 138.12px;
+  top: 624px;
+  border: none;
+  background: #052d56;
+  border-radius: 5px 0px 0px 5px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #3d6184;
+}
+.header-form-button {
+  width: 184.21px;
+  height: 73px;
+  left: 805.07px;
+  top: 624px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #ffffff;
+  border: none;
+  background: #ff4820;
+  border-radius: 0px 5px 5px 0px;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.header-people {
+  display: flex;
+  width: 600px;
+  margin-top: 20px;
+  height: 39.61px;
+  /* left: 138.12px;
+  top: 734.28px; */
+  font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 38px;
+/* identical to box height, or 313% */
+color: #FFFFFF;
+gap: 15px;
+}
